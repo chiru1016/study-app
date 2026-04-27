@@ -9,7 +9,7 @@
     --medium-gray: #bae6fd;
     --dark-gray: #0c4a6e;
     --black: #082f49;
-    --shadow: 0 8px 30px rgba(0, 119, 182, 0.1);
+    --shadow: 0 8px 30px rgba(0, 119, 18, 0.1);
     --transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
 
     /* Light Mode Defaults */
